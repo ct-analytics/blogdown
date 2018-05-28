@@ -3,7 +3,6 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-#baseurl = "https://ct-analytics.github.io/"
 baseurl = ""
 publishDir = "docs"
 relativeurls = true
