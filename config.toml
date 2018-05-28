@@ -3,8 +3,9 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
-publishDir = "../ct-analytics.github.io/blogdown/"
+#baseurl = "https://ct-analytics.github.io/"
+baseurl = "./"
+publishDir = "docs"
 
 # Title of your site
 title = "Academic"
