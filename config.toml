@@ -5,7 +5,7 @@
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = ""
 publishDir = "docs"
-relativeurls = true
+#relativeurls = true
 
 # Title of your site
 title = "Feasible Analytics"
