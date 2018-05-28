@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "M.S. in Operations Research"
+  course = "MSc in Operations Research"
   institution = "George Mason University"
   year = 2011
 

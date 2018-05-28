@@ -33,12 +33,32 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "SAIC"
+  tag = ".SAIC"
 
 [[filter]]
+  name = "IBM"
+  tag = ".IBM"
+  
+[[filter]]
+  name = "EPSILON"
+  tag = ".EPSILON"
+  
+[[filter]]
+  name = "MITRE"
+  tag = ".MITRE"
+  
+[[filter]]
+  name = "WPI"
+  tag = ".WPI"
+  
+[[filter]]
+  name = "GMU"
+  tag = ".GMU"
+  
+[[filter]]
   name = "Other"
-  tag = ".demo"
+  tag = ".other"
 
 +++
 
