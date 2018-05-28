@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Feasible Analytics</title>
+    <title>Tags on Academic</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Feasible Analytics</description>
+    <description>Recent content in Tags on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -22,24 +22,6 @@
     </item>
     
     <item>
-      <title>Applied-probability</title>
-      <link>/tags/applied-probability/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/applied-probability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decision-analysis</title>
-      <link>/tags/decision-analysis/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/decision-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep-learning</title>
       <link>/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -54,33 +36,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EXCEL VBA</title>
-      <link>/tags/excel-vba/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/excel-vba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GMU</title>
-      <link>/tags/gmu/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/gmu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Operations-research</title>
-      <link>/tags/operations-research/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/operations-research/</guid>
       <description></description>
     </item>
     
@@ -108,24 +63,6 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SAIC</title>
-      <link>/tags/saic/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/saic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistics</title>
-      <link>/tags/statistics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/statistics/</guid>
       <description></description>
     </item>
     
