@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/potm-dt/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
       <lastmod>2018-05-20T15:27:41-04:00</lastmod>
     </url>
@@ -50,8 +59,8 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2018-05-27T22:05:17-04:00</lastmod>
+      <loc>/project/pcmat/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
     </url>
     
   
@@ -59,8 +68,8 @@
     
     <url>
     
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2018-05-27T22:05:17-04:00</lastmod>
+      <loc>/project/pacw/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
     </url>
     
   
@@ -68,8 +77,26 @@
     
     <url>
     
-      <loc>/2016/04/academic-the-website-designer-for-hugo/</loc>
-      <lastmod>2018-05-27T22:05:17-04:00</lastmod>
+      <loc>/project/gmu-capstone/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/tram/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2015-11-10-potm-dt/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
     </url>
     
   
@@ -86,8 +113,8 @@
     
     <url>
     
-      <loc>/2015/07/hello-r-markdown/</loc>
-      <lastmod>2018-05-28T18:34:15-04:00</lastmod>
+      <loc>/publication/clothing-search/</loc>
+      <lastmod>2018-05-20T15:27:41-04:00</lastmod>
     </url>
     
   
@@ -95,8 +122,8 @@
     
     <url>
     
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2018-05-20T15:27:41-04:00</lastmod>
+      <loc>/post/dt-example/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
     </url>
     
   
@@ -124,8 +151,8 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2018-05-27T22:05:17-04:00</lastmod>
+      <loc>/tags/applied-probability/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -143,8 +170,8 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2018-05-27T22:05:17-04:00</lastmod>
+      <loc>/tags/dt/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -153,8 +180,8 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2018-05-27T22:05:17-04:00</lastmod>
+      <loc>/tags/decision-analysis/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -163,8 +190,68 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
-      <lastmod>2018-05-28T18:34:15-04:00</lastmod>
+      <loc>/tags/excel-vba/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/gmu/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/mitre/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/machine-learning/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/operations-research/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/potm/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -174,7 +261,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-05-27T22:05:17-04:00</lastmod>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -193,8 +280,18 @@
     
     <url>
     
+      <loc>/tags/r/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/r/</loc>
-      <lastmod>2018-05-28T18:34:15-04:00</lastmod>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -203,8 +300,8 @@
     
     <url>
     
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2018-05-28T18:34:15-04:00</lastmod>
+      <loc>/tags/risk-analysis/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -213,8 +310,18 @@
     
     <url>
     
-      <loc>/tags/regression/</loc>
-      <lastmod>2018-05-28T18:34:15-04:00</lastmod>
+      <loc>/tags/saic/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/statistics/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -225,6 +332,16 @@
     
       <loc>/tags/</loc>
       <lastmod>2018-05-20T15:27:41-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/visualization/</loc>
+      <lastmod>2018-05-28T18:44:43-04:00</lastmod>
       <priority>0</priority>
     </url>
     
