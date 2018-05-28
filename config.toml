@@ -4,8 +4,9 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #baseurl = "https://ct-analytics.github.io/"
-baseurl = "./ct-analytics.github.io/blogdown/"
+baseurl = ""
 publishDir = "docs"
+relativeurls = true
 
 # Title of your site
 title = "Academic"
@@ -296,3 +297,6 @@ enableGitInfo = true
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+
+[permalinks]
+  post = "/:year/:month/:title/"
