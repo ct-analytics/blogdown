@@ -50,24 +50,6 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/project/pcmat/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -77,7 +59,6 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>/project/pacw/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -87,8 +68,6 @@
     
     <url>
     
-=======
->>>>>>> parent of a02363b... remove extraneous files
       <loc>/project/gmu-capstone/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -98,7 +77,6 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>/project/tram/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -110,10 +88,6 @@
     
       <loc>/post/2015-11-10-potm-dt/</loc>
       <lastmod>2015-11-10T00:00:00-05:00</lastmod>
-=======
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
->>>>>>> parent of a02363b... remove extraneous files
     </url>
     
   
@@ -130,13 +104,8 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00-04:00</lastmod>
-=======
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
->>>>>>> parent of a02363b... remove extraneous files
     </url>
     
   
@@ -144,12 +113,7 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>/post/dt-example/</loc>
-=======
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
->>>>>>> parent of a02363b... remove extraneous files
     </url>
     
   
@@ -196,7 +160,6 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>/tags/dt/</loc>
       <lastmod>2015-11-10T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -207,29 +170,7 @@
     
     <url>
     
-=======
->>>>>>> parent of a02363b... remove extraneous files
       <loc>/tags/decision-analysis/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -269,7 +210,6 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>/tags/mitre/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -290,8 +230,6 @@
     
     <url>
     
-=======
->>>>>>> parent of a02363b... remove extraneous files
       <loc>/tags/operations-research/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -302,13 +240,8 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>/tags/potm/</loc>
       <lastmod>2015-11-10T00:00:00-05:00</lastmod>
-=======
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
->>>>>>> parent of a02363b... remove extraneous files
       <priority>0</priority>
     </url>
     
@@ -337,27 +270,8 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
-<<<<<<< HEAD
-      <lastmod>2015-11-10T00:00:00-05:00</lastmod>
-=======
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
->>>>>>> parent of a02363b... remove extraneous files
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-<<<<<<< HEAD
       <loc>/tags/r/</loc>
       <lastmod>2015-11-10T00:00:00-05:00</lastmod>
-=======
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
->>>>>>> parent of a02363b... remove extraneous files
       <priority>0</priority>
     </url>
     
@@ -366,13 +280,18 @@
     
     <url>
     
-<<<<<<< HEAD
+      <loc>/categories/r/</loc>
+      <lastmod>2015-11-10T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/risk-analysis/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-=======
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
->>>>>>> parent of a02363b... remove extraneous files
       <priority>0</priority>
     </url>
     
@@ -407,7 +326,6 @@
     </url>
     
   
-<<<<<<< HEAD
     
     
     <url>
@@ -418,6 +336,4 @@
     </url>
     
   
-=======
->>>>>>> parent of a02363b... remove extraneous files
 </urlset>
