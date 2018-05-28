@@ -9,7 +9,7 @@ title = "NASA: Probabilistic Campaign Manifest Analysis Tool"
 summary = "Support NASA decision makers on planning through risk of sending missions to the moon."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "Constellation_logo_white.svg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
